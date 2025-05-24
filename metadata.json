@@ -1,0 +1,6 @@
+{
+  "name": "AI Image Annotator",
+  "description": "Upload images and provide a text prompt to generate bounding box annotations using Gemini. Export annotations in YOLO and COCO formats.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
